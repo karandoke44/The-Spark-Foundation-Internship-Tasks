@@ -14,8 +14,8 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Data can be found at [http://bit.ly/w](http://bit.ly/w)
 - What will be predicted score if a student studies for 9.25 hrs/ day?
 
-> [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb) 
-> [Youtube Link](https://youtu.be/rUSoNV6-A9A ) 
+> [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb)   *
+> [Youtube Link](https://youtu.be/rUSoNV6-A9A )   * 
 > [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_tsf-thesparksfoundation-griptask-activity-6906933436263862272-Cks5?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
 
 <hr>
