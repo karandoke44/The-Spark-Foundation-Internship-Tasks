@@ -15,8 +15,8 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - What will be predicted score if a student studies for 9.25 hrs/ day?
 
 > => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb)
->     => [Youtube Link](https://youtu.be/rUSoNV6-A9A ) 
->     => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_tsf-thesparksfoundation-griptask-activity-6906933436263862272-Cks5?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
+> => [Youtube Link](https://youtu.be/rUSoNV6-A9A ) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_tsf-thesparksfoundation-griptask-activity-6906933436263862272-Cks5?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
 
 <hr>
 
@@ -25,6 +25,8 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Use R or Python or perform this task.
 - Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
-> Github   : [Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb )<br><br>
-> Youtube  :  <br><br>
-> LinkedIn :  <br>
+> => [Github Link](github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb)
+> => [Youtube Link](https://youtu.be/eSxJcoPd9oA) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_gripmarch22-tsf-thesparksfoundation-activity-6908335501561192448-g84c?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
+
+<hr>
