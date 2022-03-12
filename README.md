@@ -25,7 +25,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Use R or Python or perform this task.
 - Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
-> => [Github Link](github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb)
+> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb)
 > => [Youtube Link](https://youtu.be/eSxJcoPd9oA) 
 > => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_gripmarch22-tsf-thesparksfoundation-activity-6908335501561192448-g84c?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
 
