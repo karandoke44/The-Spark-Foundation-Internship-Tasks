@@ -28,3 +28,12 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 > => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_gripmarch22-tsf-thesparksfoundation-activity-6908335501561192448-g84c?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
 
 <hr>
+
+### Task 3: Exploratory Data Analysis - Retail (Beginner Level)
+- Perform Exploratory Data Analysis on dataset 'SampleStore'
+- As a business manager, try to find out the weak area where you can work to make more profit.
+- What all business problems you can derive by exploring the data?
+
+> => [Github Link]()
+> => [Youtube Link](https://youtu.be/49EHjsgTXLU) 
+> => [LinkedIn Link]() <br>
