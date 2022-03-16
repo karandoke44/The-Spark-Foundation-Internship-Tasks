@@ -48,4 +48,5 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 
 > => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-4%20Exploratory%20Data%20Analysis%20-%20Global%20Terrorism.ipynb)
 > => [Youtube Link](https://youtu.be/yWTzYftR0cc) 
-> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_task4-gripmarch22-gripmarch2022-activity-6909920165086265344-1sY4?utm_source=linkedin_share&utm_medium=member_desktop_web) <br>
+> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_task4-gripmarch22-gripmarch2022-activity-6909920165086265344-1sY4?utm_source=linkedin_share&utm_medium=member_desktop_web) 
+> => [Tableau Dashboard](https://public.tableau.com/shared/QR3CCZQT5?:display_count=n&:origin=viz_share_link)<br>
