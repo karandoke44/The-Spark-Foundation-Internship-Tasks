@@ -37,3 +37,15 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 > => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-3%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)
 > => [Youtube Link](https://youtu.be/49EHjsgTXLU) 
 > => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_gripmarch22-tsf-thesparksfoundation-activity-6909734278931116032-UgPV?utm_source=linkedin_share&utm_medium=member_desktop_web) <br>
+
+<hr>
+
+### Task 4: Exploratory Data Analysis - Global Terrorism (Intermediate Level)
+- Perform Exploratory Data Analysis on dataset 'Global Terrorism'
+- As a security/defense analyst, try to find out the hot zone of terrorism.
+- What all security issues and insights you can derive by EDA?
+- Dataset link -> https://bit.ly/2TK5Xn5
+
+> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-4%20Exploratory%20Data%20Analysis%20-%20Global%20Terrorism.ipynb)
+> => [Youtube Link](https://youtu.be/yWTzYftR0cc) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_task4-gripmarch22-gripmarch2022-activity-6909920165086265344-1sY4?utm_source=linkedin_share&utm_medium=member_desktop_web) <br>
