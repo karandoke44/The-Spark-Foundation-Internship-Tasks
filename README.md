@@ -1,6 +1,6 @@
 <img align = right height = 150 width = 150 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
-#  The Sparks Foundation Tasks
+#  GRIP @ The Sparks Foundation Tasks
 While I was working as an intern at [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/) , the tasks that I have completed have been saved in this repository. I am very greatful to have this kind of opportunity.
 
 - **Internship Category** - Data Science and Business Analytics
