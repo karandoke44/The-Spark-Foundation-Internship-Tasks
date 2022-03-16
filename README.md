@@ -34,6 +34,6 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - As a business manager, try to find out the weak area where you can work to make more profit.
 - What all business problems you can derive by exploring the data?
 
-> => [Github Link]()
+> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-3%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)
 > => [Youtube Link](https://youtu.be/49EHjsgTXLU) 
 > => [LinkedIn Link]() <br>
