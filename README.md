@@ -36,4 +36,4 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 
 > => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-3%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)
 > => [Youtube Link](https://youtu.be/49EHjsgTXLU) 
-> => [LinkedIn Link]() <br>
+> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_gripmarch22-tsf-thesparksfoundation-activity-6909734278931116032-UgPV?utm_source=linkedin_share&utm_medium=member_desktop_web) <br>
