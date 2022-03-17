@@ -50,3 +50,13 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 > => [Youtube Link](https://youtu.be/yWTzYftR0cc) 
 > => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_task4-gripmarch22-gripmarch2022-activity-6909920165086265344-1sY4?utm_source=linkedin_share&utm_medium=member_desktop_web) 
 > => [Tableau Dashboard](https://public.tableau.com/shared/QR3CCZQT5?:display_count=n&:origin=viz_share_link)<br>
+
+<hr>
+
+### Task 6: Prediction using Decision Tree Algorithm (Intermediate Level)
+- Create a Decision Tree Classifier and visualize it graphically.
+- The purpose is if we feed any new data to this classifier , it would be able to predict the right class accordingly
+- Dataset link: https://bit.ly/3kXTdox
+> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-6%20Prediction%20using%20%20Decision%20Tree%20Algorithm.ipynb)
+> => [Youtube Link](https://youtu.be/ZcvXxetIWmY) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_task6-gripmarch22-tsf-activity-6910287320956948480-mRLE?utm_source=linkedin_share&utm_medium=member_desktop_web) 
