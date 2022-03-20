@@ -8,35 +8,38 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - **Internship Duration** - 1 Month i.e. March 2022
 <hr>
 
-### Task 1: Prediction using Unsupervised ML (Beginner Level)
+### Task 1: Prediction using supervised ML (Beginner Level)
 - Predict the percentage of marks of an student based on the number of study hours.
 - This is a simple linear regression task as it involves just 2 variables.
 - What will be predicted score if a student studies for 9.25 hrs/ day?
+- Dataset: http://bit.ly/w-data
 
-> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb)
-> => [Youtube Link](https://youtu.be/rUSoNV6-A9A ) 
-> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_tsf-thesparksfoundation-griptask-activity-6906933436263862272-Cks5?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/blob/main/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb)
+> => [Youtube Link](https://youtu.be/WUtbz-JpOto) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task1-internship2022-connections-activity-6910970297303097344-hGAz?utm_source=linkedin_share&utm_medium=member_desktop_web) <br>
 
 <hr>
 
 ### Task 2: Prediction using Unsupervised ML (Beginner Level)
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 - Use R or Python or perform this task.
+- Dataset: https://bit.ly/3kXTdox
 
-> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb)
-> => [Youtube Link](https://youtu.be/eSxJcoPd9oA) 
-> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_gripmarch22-tsf-thesparksfoundation-activity-6908335501561192448-g84c?utm_source=linkedin_share&utm_medium=member_desktop_web ) <br>
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb)
+> => [Youtube Link](https://youtu.be/VBvACKHc0oI) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task2-internship2022-connections-activity-6910977566665261056-RRwv?utm_source=linkedin_share&utm_medium=member_desktop_web) <br>
 
 <hr>
 
-### Task 3: Exploratory Data Analysis - Retail (Beginner Level)
+### Task 3: Exploratory Data Analysis - Sample Superstore (Beginner Level)
 - Perform Exploratory Data Analysis on dataset 'SampleStore'
 - As a business manager, try to find out the weak area where you can work to make more profit.
 - What all business problems you can derive by exploring the data?
 
-> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-3%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)
-> => [Youtube Link](https://youtu.be/49EHjsgTXLU) 
-> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_gripmarch22-tsf-thesparksfoundation-activity-6909734278931116032-UgPV?utm_source=linkedin_share&utm_medium=member_desktop_web) <br>
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-3%20EDA%20on%20Sample%20Superstore)
+> => [Youtube Link](https://youtu.be/yi6JmX6jF1M) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task3-internship2022-connections-activity-6907542489113219072-seNd?utm_source=linkedin_share&utm_medium=member_desktop_web)
+> => [Tableau Dashboard](https://lnkd.in/eVNBdsyW) <br>
 
 <hr>
 
@@ -46,10 +49,24 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - What all security issues and insights you can derive by EDA?
 - Dataset link -> https://bit.ly/2TK5Xn5
 
-> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-4%20Exploratory%20Data%20Analysis%20-%20Global%20Terrorism.ipynb)
-> => [Youtube Link](https://youtu.be/yWTzYftR0cc) 
-> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_task4-gripmarch22-gripmarch2022-activity-6909920165086265344-1sY4?utm_source=linkedin_share&utm_medium=member_desktop_web) 
-> => [Tableau Dashboard](https://public.tableau.com/shared/QR3CCZQT5?:display_count=n&:origin=viz_share_link)<br>
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-4%20EDA%20on%20Global%20Terrorism)
+> => [Youtube Link](https://youtu.be/uGHZw0S6uPA) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_global-terrorism-eda-tableau-dashboard-activity-6907181099852681216-0Q7P?utm_source=linkedin_share&utm_medium=member_desktop_web) 
+> => [Tableau Dashboard](https://lnkd.in/gg9Rf-33)
+> => [Tableau Story](https://lnkd.in/gCvRH65e)<br>
+
+<hr>
+
+### Task 5: Exploratory Data Analysis on Indian Premier League (Advanced Level)
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’.
+- As a Sports Analysts, Find out the most succesfull teams, players and factors contributing win or loss of a team.
+- Suggest teams or players a company should endorse of it’s products.
+- Dataset link: https://bit.ly/34SRn3b
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-5%20EDA%20on%20Indian%20Premier%20League)
+> => [Youtube Link]() 
+> => [LinkedIn Link]() 
+> => [Tableau Dashboard](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-5%20EDA%20on%20Indian%20Premier%20League)
+> => [Tableau Story](https://public.tableau.com/app/profile/karan.doke/viz/IndianPremierLeagueAnalysisStory/IndianPremierLeagueAnalysisStory)<br>
 
 <hr>
 
@@ -57,6 +74,29 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Create a Decision Tree Classifier and visualize it graphically.
 - The purpose is if we feed any new data to this classifier , it would be able to predict the right class accordingly
 - Dataset link: https://bit.ly/3kXTdox
-> => [Github Link](https://github.com/DivyamSingh18/The-Sparks-Foundation-Tasks/blob/main/Task-6%20Prediction%20using%20%20Decision%20Tree%20Algorithm.ipynb)
-> => [Youtube Link](https://youtu.be/ZcvXxetIWmY) 
-> => [LinkedIn Link](https://www.linkedin.com/posts/divyam-singh-408b221ba_task6-gripmarch22-tsf-activity-6910287320956948480-mRLE?utm_source=linkedin_share&utm_medium=member_desktop_web) 
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/blob/main/Task-6%20Prediction%20using%20%20Decision%20Tree%20Algorithm.ipynb)
+> => [Youtube Link](https://youtu.be/r9d5PFGlASM) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task6-internship2022-connections-activity-6910979172840435712-n2cz?utm_source=linkedin_share&utm_medium=member_desktop_web)<br>
+
+<hr>
+
+### Task 7: Stock Market Prediction using Numerical and Textual (Advanced Level)
+- Stock to analyze and predict SENSEX (S&P BSE SENSEX)
+- Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices and sentimental analysis of news headlines.
+- Download historical stock prices from https://finance.yahoo.com/
+- Download textual(news) data from https://bit.ly/36fFPI6
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/blob/main/Task-7%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis.ipynb)
+> => [Youtube Link](https://youtu.be/u9TweK0YBuE) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task7-internship2022-connections-activity-6910981018715881472-Uutj?utm_source=linkedin_share&utm_medium=member_desktop_web)<br>
+
+<hr>
+
+### Task 8: Timeline Analysis Covid-19 (Advanced Level)
+- Create a storyboard showing spread of Covid-19 cases in your country or any region(Asia,Europe,BRICS etc) using Tableau,Power BI or SAP.
+- Use animation,timeline and anotations to create attractive and interactive dashboards and story.
+- Identify interesting patterns and possible reasons helping Covid-19 spreadwith basic and advanced charts.
+- Dataset link: Https://bit.Ly/30d2gdi
+> => [Github Link]()
+> => [Youtube Link]() 
+> => [LinkedIn Link]()<br>
+
