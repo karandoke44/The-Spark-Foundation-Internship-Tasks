@@ -64,8 +64,8 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Suggest teams or players a company should endorse of it’s products.
 - Dataset link -> https://bit.ly/34SRn3b
 > => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-5%20EDA%20on%20Indian%20Premier%20League)
-> => [Youtube Link]() 
-> => [LinkedIn Link]() 
+> => [Youtube Link](https://youtu.be/q-8Yn8vHV1E) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task5-internship2022-connections-activity-6911206821550542848-WYTT?utm_source=linkedin_share&utm_medium=member_desktop_web) 
 > => [Tableau Dashboard](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-5%20EDA%20on%20Indian%20Premier%20League)
 > => [Tableau Story](https://public.tableau.com/app/profile/karan.doke/viz/IndianPremierLeagueAnalysisStory/IndianPremierLeagueAnalysisStory)<br>
 
@@ -97,7 +97,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Use animation,timeline and anotations to create attractive and interactive dashboards and story.
 - Identify interesting patterns and possible reasons helping Covid-19 spreadwith basic and advanced charts.
 - Dataset link -> Https://bit.Ly/30d2gdi
-> => [Github Link]()
-> => [Youtube Link]() 
-> => [LinkedIn Link]()<br>
+> => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-8%20Covid-19%20Analysis%20Story)
+> => [Youtube Link](https://youtu.be/mOudZjdX_S8) 
+> => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task8-internship2022-connections-activity-6911204369489137664-80Lx?utm_source=linkedin_share&utm_medium=member_desktop_web)<br>
 
