@@ -66,7 +66,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 > => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-5%20EDA%20on%20Indian%20Premier%20League)
 > => [Youtube Link](https://youtu.be/q-8Yn8vHV1E) 
 > => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task5-internship2022-connections-activity-6911206821550542848-WYTT?utm_source=linkedin_share&utm_medium=member_desktop_web) 
-> => [Tableau Dashboard](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-5%20EDA%20on%20Indian%20Premier%20League)
+> => [Tableau Dashboard](https://public.tableau.com/app/profile/karan.doke/viz/IndianPremierLeagueDashboard/IndianPremierLeagueAnalysisforSeason01-12)
 > => [Tableau Story](https://public.tableau.com/app/profile/karan.doke/viz/IndianPremierLeagueAnalysisStory/IndianPremierLeagueAnalysisStory)<br>
 
 <hr>
