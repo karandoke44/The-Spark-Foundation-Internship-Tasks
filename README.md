@@ -12,7 +12,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Predict the percentage of marks of an student based on the number of study hours.
 - This is a simple linear regression task as it involves just 2 variables.
 - What will be predicted score if a student studies for 9.25 hrs/ day?
-- Dataset: http://bit.ly/w-data
+- Dataset link -> http://bit.ly/w-data
 
 > => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/blob/main/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb)
 > => [Youtube Link](https://youtu.be/WUtbz-JpOto) 
@@ -23,7 +23,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 ### Task 2: Prediction using Unsupervised ML (Beginner Level)
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 - Use R or Python or perform this task.
-- Dataset: https://bit.ly/3kXTdox
+- Dataset link -> https://bit.ly/3kXTdox
 
 > => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb)
 > => [Youtube Link](https://youtu.be/VBvACKHc0oI) 
@@ -35,6 +35,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Perform Exploratory Data Analysis on dataset 'SampleStore'
 - As a business manager, try to find out the weak area where you can work to make more profit.
 - What all business problems you can derive by exploring the data?
+- Dataset link -> https://bit.ly/3i4rbWl
 
 > => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-3%20EDA%20on%20Sample%20Superstore)
 > => [Youtube Link](https://youtu.be/yi6JmX6jF1M) 
@@ -61,7 +62,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’.
 - As a Sports Analysts, Find out the most succesfull teams, players and factors contributing win or loss of a team.
 - Suggest teams or players a company should endorse of it’s products.
-- Dataset link: https://bit.ly/34SRn3b
+- Dataset link -> https://bit.ly/34SRn3b
 > => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/tree/main/Task-5%20EDA%20on%20Indian%20Premier%20League)
 > => [Youtube Link]() 
 > => [LinkedIn Link]() 
@@ -73,7 +74,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 ### Task 6: Prediction using Decision Tree Algorithm (Intermediate Level)
 - Create a Decision Tree Classifier and visualize it graphically.
 - The purpose is if we feed any new data to this classifier , it would be able to predict the right class accordingly
-- Dataset link: https://bit.ly/3kXTdox
+- Dataset link -> https://bit.ly/3kXTdox
 > => [Github Link](https://github.com/karandoke44/The-Spark-Foundation-Internship-Tasks/blob/main/Task-6%20Prediction%20using%20%20Decision%20Tree%20Algorithm.ipynb)
 > => [Youtube Link](https://youtu.be/r9d5PFGlASM) 
 > => [LinkedIn Link](https://www.linkedin.com/posts/karan-doke-0154771aa_task6-internship2022-connections-activity-6910979172840435712-n2cz?utm_source=linkedin_share&utm_medium=member_desktop_web)<br>
@@ -95,7 +96,7 @@ While I was working as an intern at [The Sparks Foundation.](https://www.thespar
 - Create a storyboard showing spread of Covid-19 cases in your country or any region(Asia,Europe,BRICS etc) using Tableau,Power BI or SAP.
 - Use animation,timeline and anotations to create attractive and interactive dashboards and story.
 - Identify interesting patterns and possible reasons helping Covid-19 spreadwith basic and advanced charts.
-- Dataset link: Https://bit.Ly/30d2gdi
+- Dataset link -> Https://bit.Ly/30d2gdi
 > => [Github Link]()
 > => [Youtube Link]() 
 > => [LinkedIn Link]()<br>
